@@ -14,9 +14,9 @@ Blog para postagens de conteúdo relacionados a tecnologia.
 
 ## Layout
 
-![HOME](https://github.com/AnaniasBarbosa/nextjs-blog/tree/main/assets/blog-index.jpg)
+![HOME](/assets/blog-index.jpg)
 
-![POST](https://github.com/AnaniasBarbosa/nextjs-blog/tree/main/assets/blog-post.jpg)
+![POST](/assets/blog-post.jpg)
 
 ## Demonstração
 
