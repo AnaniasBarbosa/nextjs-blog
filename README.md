@@ -1,4 +1,6 @@
-# Blog Front-Developer
+<h1 align="center">Blog Front-Developer </h1>
+
+![licença](https://img.shields.io/github/license/AnaniasBarbosa/nextjs-blog)
 
 Blog para postagens de conteúdo relacionados a tecnologia.
 
@@ -7,7 +9,6 @@ Blog para postagens de conteúdo relacionados a tecnologia.
 - [layout](#layout)
 - [Demonstração](#demonstração)
 - [Sobre o projeto](#sobre-o-projeto)
-- [Implantação](#implantação-em-produção)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Como usar](#como-usar)
 - [Licença](#licença)
@@ -47,7 +48,10 @@ Primeiro baixe ou clone este projeto do GitHub.
 
 ```npm
 # para clonar o projeto:
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git clone https://github.com/AnaniasBarbosa/nextjs-blog.git
+
+# acesse a pasta do projeto:
+cd next-blog
 
 # para instalar as dependências
 npm install
@@ -55,9 +59,9 @@ npm install
 # para executar
 npm start
 ```
+Após executar estes comandos em um terminal, basta abrir em uma guia de seu navegador o seguinte link: 
+http://localhost:3000/
 
 ## Licença
 
 Este projeto está sob a licença MIT. Para mais informações, leia o arquivo LICENSE.md.
-
-[Learn Next.js](https://nextjs.org/learn).
